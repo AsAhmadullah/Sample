@@ -7,5 +7,6 @@ using property file get the username and password
 And using log4j file know the time and date with functionality names
 Do assert for verification and validation
 Once we Complete the Execution then we push the code into github
+then clone the project into master branch then will start the work individual users
 
 
