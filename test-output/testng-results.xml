@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="232520" started-at="2023-08-03T15:48:57 IST" finished-at="2023-08-03T15:52:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="232520" started-at="2023-08-03T15:48:57 IST" finished-at="2023-08-03T15:52:50 IST">
+      <class name="com.amazon_Ecommerce_Web_Application.Amazon_Web_Application">
+        <test-method status="PASS" signature="brokenLinks()[pri:0, instance:com.amazon_Ecommerce_Web_Application.Amazon_Web_Application@467f77a5]" name="brokenLinks" duration-ms="170981" started-at="2023-08-03T15:48:57 IST" finished-at="2023-08-03T15:51:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenLinks -->
+        <test-method status="PASS" signature="task()[pri:0, instance:com.amazon_Ecommerce_Web_Application.Amazon_Web_Application@467f77a5]" name="task" duration-ms="61275" started-at="2023-08-03T15:51:48 IST" finished-at="2023-08-03T15:52:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task -->
+      </class> <!-- com.amazon_Ecommerce_Web_Application.Amazon_Web_Application -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
