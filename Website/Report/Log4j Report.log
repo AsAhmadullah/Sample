@@ -1,0 +1,9 @@
+2023-08-28 17:16:40 INFO  Tc_Website:28 - Browser Launch
+2023-08-28 17:16:41 INFO  Tc_Website:36 - Login
+2023-08-28 17:16:42 INFO  Tc_Website:46 - Dashboard
+2023-08-28 17:16:48 INFO  Tc_Website:54 - Canteen List
+2023-08-28 17:16:51 INFO  Tc_Website:59 - Add New Canteen
+2023-08-28 17:16:55 INFO  Tc_Website:68 - Search Canteen
+2023-08-28 17:17:01 INFO  Tc_Website:80 - Edit Canteen
+2023-08-28 17:17:11 INFO  Tc_Website:93 - Delete Canteen
+2023-08-28 17:17:24 INFO  Tc_Website:111 - Logout
